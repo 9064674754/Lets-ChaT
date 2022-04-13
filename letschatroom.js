@@ -39,7 +39,7 @@ getData();
 function redirectToroomname(name){
      console.log(name);
      localStorage.setItem("Roomname",name);
-     window.location = "kwitter_page.html";
+     window.location = "letschatpage.html";
 }
 function logout() {
      localStorage.removeItem("Username");

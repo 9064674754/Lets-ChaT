@@ -47,7 +47,7 @@ body
 	border-style: dotted;
 }
 #login_button:hover{
-	background-color: rgb(28, 214, 247);
+	background-color: green;
 }
 .room_name
 {
@@ -118,7 +118,7 @@ body
 	color:grey;
 }
 input:hover{
-	background-color: rgb(39, 253, 39);
+	background-color: yellow;
 }
 #div:hover{
 	background-color: rgb(233, 144, 225);
